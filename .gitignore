@@ -1,7 +1,7 @@
 .vscode
 .DS_Store
 
-# java
+# JAVA
 .gradle
 bin
 build
@@ -9,7 +9,7 @@ build
 .project
 .classpath
 
-# go
+# GO
 bin
 go.sum
 service
