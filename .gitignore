@@ -1,0 +1,15 @@
+.vscode
+.DS_Store
+
+# java
+.gradle
+bin
+build
+.settings
+.project
+.classpath
+
+# go
+bin
+go.sum
+service
